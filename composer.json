@@ -1,0 +1,16 @@
+{
+    "name": "ud-ade/uts",
+    "description": "ujian tengah semester matkul pbwl by ade risky pradika",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ade Risky Pradika"
+        }
+    ],
+    "require": {}
+}
